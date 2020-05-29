@@ -1,0 +1,13 @@
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\obj\Debug\netcoreapp3.1\Ordering-system.csprojAssemblyReference.cache
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\obj\Debug\netcoreapp3.1\Ordering-system.csproj.CoreCompileInputs.cache
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\obj\Debug\netcoreapp3.1\Ordering-system.AssemblyInfoInputs.cache
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\obj\Debug\netcoreapp3.1\Ordering-system.AssemblyInfo.cs
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\bin\Debug\netcoreapp3.1\Ordering-system.exe
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\bin\Debug\netcoreapp3.1\Ordering-system.deps.json
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\bin\Debug\netcoreapp3.1\Ordering-system.runtimeconfig.json
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\bin\Debug\netcoreapp3.1\Ordering-system.runtimeconfig.dev.json
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\bin\Debug\netcoreapp3.1\Ordering-system.dll
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\bin\Debug\netcoreapp3.1\Ordering-system.pdb
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\obj\Debug\netcoreapp3.1\Ordering-system.dll
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\obj\Debug\netcoreapp3.1\Ordering-system.pdb
+C:\Users\rauha\Documents\VISUALSTUDIO\Ordering-system\Ordering-system\obj\Debug\netcoreapp3.1\Ordering-system.genruntimeconfig.cache
